@@ -4,8 +4,8 @@ An animated version of cool art!
 I saw this cool piece of art and got inspired:
 (I could not find the author)
 
-![](wallpaper.png)  
+![](main/wallpaper.jpg)  
 
 My version:
 
-![](planes_preview.gif)
+![](main/planes_preview.gif)
