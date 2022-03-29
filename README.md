@@ -1,7 +1,7 @@
 # plane-trails
 
-I saw this cool piece of art and got inspired:
-(I could not find the author)
+I saw this cool piece of art and got inspired (I could not find the author):
+
 
 ![](media/wallpaper.jpg)  
 
